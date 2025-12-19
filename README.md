@@ -7,9 +7,9 @@ A complete web-based Neural Style Transfer application that allows users to tran
 
 ## Try Your Own Photo
 
-Try your own photo here: [Neural Style Transfer Web App](http://localhost:5000)
+Try your own photo here: [Neural Style Transfer Web App](https://mranantshukla.github.io/Neural-Style-Transfer/)
 
-*Note: Make sure the web application is running locally. For deployment instructions, see the "Running the Application" section below.*
+*View the project documentation and follow the installation instructions to run the application locally, or check the deployment section for cloud hosting options.*
 
 ## Project Overview
 
