@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Data and large files
+data/
+
+# Generated outputs and uploads
+outputs/*
+!outputs/.gitkeep
+uploads/*
+!uploads/content/.gitkeep
+!uploads/style/.gitkeep
+
+# Batch results (optional - uncomment if you don't want to commit these)
+# batch_results/
+# loss_plots/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
